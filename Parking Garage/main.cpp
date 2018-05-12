@@ -16,8 +16,7 @@ using namespace std;
 int main() {
 	Garage g;
 	g.initiate();
-
-	system("pause");
+	cin.get();
 	return 0;
 }
 /*
